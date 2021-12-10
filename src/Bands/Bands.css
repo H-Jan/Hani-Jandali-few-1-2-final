@@ -1,0 +1,5 @@
+.BandsDisplay {
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-family: Arial, Helvetica, sans-serif;
+}

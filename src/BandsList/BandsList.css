@@ -1,0 +1,7 @@
+.BandsList {
+	display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border-style: solid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
